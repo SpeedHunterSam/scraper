@@ -1,0 +1,19 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "A news site scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeedHunterSam/scraper.git"
+  },
+  "author": "SpeedHunterSam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpeedHunterSam/scraper/issues"
+  },
+  "homepage": "https://github.com/SpeedHunterSam/scraper#readme"
+}
